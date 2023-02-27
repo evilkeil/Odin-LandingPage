@@ -1,0 +1,83 @@
+/* general CSS */
+body {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/* CSS for the Top part */
+.top-main{
+    margin: 0;
+    padding-left: 240px;
+    padding-right: 240px;
+    background-color: #1f2937;
+    color: #F9FAF8;
+    
+}
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.nav-list{
+    display: flex;
+    list-style: none;
+    
+}
+.nav-list a{
+    text-decoration: none;
+    color: #F9FAF8;
+    font-size: 18px;
+}
+.nav-item{
+    display: flex;
+    margin-left: 2rem;
+}
+
+.container{
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    justify-content: center;
+    gap: 50px;
+    padding-bottom: 100px;
+    
+    
+}
+
+.hero-img{
+    
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.logo{
+    font-size: 24px;
+    margin-right: auto;
+   
+   
+    
+}
+
+.hero{
+    
+    
+    width: 500px;
+    height: 300px;
+    
+}
+
+.hero h1{
+    padding: 0;
+    margin-top: 0;
+}
+
+.signup{
+    color: #F9FAF8;
+    background-color: #3882F6;
+}
+
+.hero{
+    align-content: center;
+}
