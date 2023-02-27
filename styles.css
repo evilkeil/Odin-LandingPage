@@ -190,4 +190,12 @@ body {
     
 }
 
+/* styles for footer */
+
+footer{
+    text-align: center;
+    background-color: #1f2937;
+    color: #E5E7EB;
+    padding: 50px;
+}
 
