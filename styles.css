@@ -81,3 +81,36 @@ body {
 .hero{
     align-content: center;
 }
+
+/* Styles for info */
+
+.info-img {
+    width: 300px;
+    height: 200px;
+    border: 7px solid #3882F6;
+    border-radius: 30px;
+}
+
+.containerA {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+    
+}
+.containerB{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    
+}
+
+.subtext{
+    max-width: 300px;
+    text-align: center;
+   
+}
+
+
+
